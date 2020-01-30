@@ -17,10 +17,10 @@
 0. [repl.it](https://repl.it/)
 
 ## Варіанти курсу
+- https://docs.python.org/3/tutorial/index.html (офіційний, англ)
 - https://diveintopython3.problemsolving.io/ (англ)
 - https://www.learnpython.org/ (англ)
 - https://pep8.ru/doc/dive-into-python-3/ (рос)
-
 
 ## Корисні посилання
 - https://pythondiscord.com/ - велике англомовне діскорд-коммьюніті. Якщо дружите з англійською - заходите і задаєте ваше питання в одному з #help каналів.
